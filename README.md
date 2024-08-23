@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1700 | [CF1644D](https://codeforces.com/problemset/problem/1644/D) | Consider which round of coloring lasts till the end. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0821/solution/cf1644d.md) |
-| 2000 | [CF681D](https://codeforces.com/problemset/problem/681/D) | First of all, decide which men should appear in your answer. Then, decide their order. At last, check the order. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0821/solution/cf681d.md) |
+| 1600 | [CF878A](https://codeforces.com/problemset/problem/878/A) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf878a.md) |
+| 2100 | [CF1184A2](https://codeforces.com/problemset/problem/1184/A2) | For each $k$, what can you infer from the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf1184a2.md) |
