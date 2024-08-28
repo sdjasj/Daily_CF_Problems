@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | -------- | -------- | -------- | -------- |
-| 1600 | [CF878A](https://codeforces.com/problemset/problem/878/A) | Consider each bit separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf878a.md) |
-| 2100 | [CF1184A2](https://codeforces.com/problemset/problem/1184/A2) | For each $k$, what can you infer from the conditions? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0823/solution/cf1184a2.md) |
+| 1800 | [CF1290B](https://codeforces.com/problemset/problem/1290/B) | What is the actual conditions to check? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0827/solution/cf1290b.md) |
+| 1900 | [CF1237C2](https://codeforces.com/problemset/problem/1237/C2) | Consider the problem in a lower dimension. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0827/solution/cf1237c2.md) |
