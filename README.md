@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1600 | [CF768B](https://codeforces.com/problemset/problem/768/B) | As $r-l$ is not large, we can find out the answer of each position. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf768b.md) |
-| 2100 | [CF1176F](https://codeforces.com/problemset/problem/1176/F) | Consider the basic DP. Do we really need to consider all the possible status in the previous round? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/08/0830/solution/cf1176f.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF753B](https://codeforces.com/problemset/problem/753/B) | If you find some information about the target, you can brute-force over the answer. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0124/solution/cf753b.md) |
+| 2100 | [CF466E](https://codeforces.com/problemset/problem/466/E) | The tree can be pre-determined. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0124/solution/cf466e.md) |
