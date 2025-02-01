@@ -12,7 +12,7 @@
 
 - Upload your solution in the folder: `daily_problems/${YYYY}/${MM}/${MMDD}/personal_submission`.
 
-- Remember to name your submission code file `${problem_code}_{your_name}.{py/cpp/...}`.
+- Remember to name your submission code file `${problem_code}_${your_name}.{py/cpp/...}`.
 
 - Also, when creating a pull request, please title it `${YYYYMMDD} ${INFO}`.
 
@@ -24,5 +24,5 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 
 | Difficulty | Problems | Hints | Solution |
 | ---------- | -------- | ----- | -------- |
-| 1600 | [CF1281B](https://codeforces.com/problemset/problem/1281/B) | Find the first character that can be replaced by something small. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0131/solution/cf1281b.md) |
-| 2100 | [CF748D](https://codeforces.com/problemset/problem/748/D) | Strings come in pairs. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/01/0131/solution/cf748d.md) |
+| 1600 | [CF1137A](https://codeforces.com/problemset/problem/1137/A) | What determines the answer? | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0201/solution/cf1137a.md) |
+| 2400 | [CF1070I](https://codeforces.com/problemset/problem/1070/I) | Find out the purpose of painting two edges into the same color. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2025/02/0201/solution/cf1070i.md) |
